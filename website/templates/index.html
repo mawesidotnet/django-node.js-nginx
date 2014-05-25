@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Django - Node.js</title>
+        <meta name="description" content="node comunication" />
+    </head>
+    <body>
+        <header>
+            <h1>{{ title }}</h1>
+        </header>
+    </body>
+    <section>
+        <div>
+            <input id="text-message" alt="message" title="Enviar message"/>
+            <input id="send-message" type="submit" value="Enviar">
+        </div>
+        <div id="messages"></div>
+    </section>
+    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://node.la:8004/socket.io/socket.io.js"></script>    
+    <script type="text/javascript">
+    $(function(){
+        var socket = io.connect("http://node.la:8004/");
+
+        socket.on('message', function (message) {
+            var newMessage = '<div>Chat: '+ message.chat +'</div>';
+            $('#messages').prepend(newMessage);
+        });
+
+        $('#send-message').on("click",function(){
+            var message = $('#text-message').val();
+            socket.emit('message', {text:message});
+
+            var myMessage = '<div>Yo: '+ message +'</div>';
+            $('#messages').prepend(myMessage);
+        })
+    })
+    </script>
+</html>
