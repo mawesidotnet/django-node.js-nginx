@@ -19,10 +19,10 @@
     </section>
     
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="http://node.la:8004/socket.io/socket.io.js"></script>    
+    <script type="text/javascript" src="http://mawesi.dev:8002/socket.io/socket.io.js"></script>    
     <script type="text/javascript">
     $(function(){
-        var socket = io.connect("http://node.la:8004/");
+        var socket = io.connect("http://mawesi.dev:8002/");
 
         socket.on('message', function (message) {
             var newMessage = '<div>Chat: '+ message.chat +'</div>';

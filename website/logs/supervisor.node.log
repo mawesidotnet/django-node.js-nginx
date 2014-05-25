@@ -940,3 +940,154 @@ debug: fired close timeout for client 0eoRDId6fv5PcpfC2Cl8
 info: transport end (close timeout)
 debug: discarding transport
 info: socket.io started
+info: socket.io started
+debug: served static content /socket.io.js
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized WjSzdW9slPjmKlT8YsMT
+debug: setting request GET /socket.io/1/websocket/WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: client authorized for 
+debug: websocket writing 1::
+debug: broadcasting packet
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized Lc0pRnwI6Mep1FseYsMU
+debug: setting request GET /socket.io/1/websocket/Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: client authorized for 
+debug: websocket writing 1::
+debug: broadcasting packet
+debug: websocket writing 5:::{"name":"message","args":[{"chat":"Hello"}]}
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
+debug: emitting heartbeat for client WjSzdW9slPjmKlT8YsMT
+debug: websocket writing 2::
+debug: set heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client WjSzdW9slPjmKlT8YsMT
+debug: set heartbeat interval for client WjSzdW9slPjmKlT8YsMT
+debug: emitting heartbeat for client Lc0pRnwI6Mep1FseYsMU
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Lc0pRnwI6Mep1FseYsMU
+debug: set heartbeat interval for client Lc0pRnwI6Mep1FseYsMU
